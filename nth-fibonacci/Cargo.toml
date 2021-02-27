@@ -1,5 +1,5 @@
 [package]
-name = "hello_cargo"
+name = "nth-fibonacci"
 version = "0.1.0"
 authors = ["ElCholoGamer <josedanielgrayson@gmail.com>"]
 edition = "2018"

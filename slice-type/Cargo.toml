@@ -1,5 +1,5 @@
 [package]
-name = "twelve_days_of_christmas"
+name = "slice-type"
 version = "0.1.0"
 authors = ["ElCholoGamer <josedanielgrayson@gmail.com>"]
 edition = "2018"
